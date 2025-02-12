@@ -1,0 +1,8 @@
+Primeiros passos
+Para os primeiros passos para o desenvolvimento do projeto vocês precisam: 
+
+1) Escolher o tema do projeto com o caráter extensionista que atendam a necessidades dos Objetivos de Desenvolvimento Sustentável da ONU (ODS).
+
+2) Escolha da base para o desenvolvimento do sistema de recomendação.
+
+3) Escolha do grupo (máximo de 4 alunos). 
