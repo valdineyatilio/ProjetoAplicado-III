@@ -1,6 +1,0 @@
-Aula-01/* filter=lfs diff=lfs merge=lfs -text
-Aula-01/AmazonProductReviews.csv* filter=lfs diff=lfs merge=lfs -text
-AmazonProductReviews.csv* filter=lfs diff=lfs merge=lfs -text
-AmazonProductReviews.csv filter=lfs diff=lfs merge=lfs -text
-AmazonProductReviews.csv/* filter=lfs diff=lfs merge=lfs -text
-Aula-01/AmazonProductReviews.csv filter=lfs diff=lfs merge=lfs -text
